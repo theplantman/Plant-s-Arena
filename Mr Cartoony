@@ -1,5 +1,5 @@
-["Mr Cartoony"] = {
-	["Began"] = {
-			
-	}
+local MrCartoony = {
+	["Began"] = {},
+	["Ended"] = {}
 }
+return MrCartoony
